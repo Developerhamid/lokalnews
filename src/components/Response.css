@@ -1,0 +1,35 @@
+@media screen and (max-width: 767px) {
+  .main-heading {
+    font-size: 1.5rem;
+  }
+
+  .news-header {
+    height: auto;
+    padding: 5px 0;
+    flex-direction: column;
+  }
+
+  .news-container {
+    min-width: 100%;
+  }
+
+  .news-card {
+    margin: 1rem 0;
+  }
+
+  .logo {
+    margin-top: 10px;
+  }
+
+  .head-filters {
+    flex-direction: column;
+  }
+
+  .search-filter {
+    margin: 12px 0;
+  }
+
+  .filters ul {
+    margin-left: 0;
+  }
+}

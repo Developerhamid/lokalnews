@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lokalnews/static/css/main.ba5444de.css",
+    "main.js": "/lokalnews/static/js/main.748d6e19.js",
+    "index.html": "/lokalnews/index.html",
+    "main.ba5444de.css.map": "/lokalnews/static/css/main.ba5444de.css.map",
+    "main.748d6e19.js.map": "/lokalnews/static/js/main.748d6e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5444de.css",
+    "static/js/main.748d6e19.js"
+  ]
+}
